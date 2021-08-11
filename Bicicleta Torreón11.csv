@@ -1,4 +1,4 @@
 SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,productName,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
 8899,89999,7,356.90,356.90,0.00,0,822,"ML Road Frame-W - Yellow 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,paleta,Sucursal D
 8899,89999,7,356.90,356.90,0.00,0,822,"ML Road Frame-W - Yellow 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Paleta,Sucursal D
-
+110319,89999,7,356.90,356.90,0.00,0,822,"ML Road Frame-W - Yellow 38",360.94,594.83,NULL,NULL,NULL,01/07/2021 00:00,Paleta,Sucursal D
